@@ -1,4 +1,4 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jdtournier/cpp_assignment1_emg?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jdtournier/cpp_assignment1_emg/tree/solution?quickstart=1)
 
 
 # BEng Biomedical Engineering
